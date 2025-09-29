@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DesarrolloWeb-Practica06/static/css/main.f9efd858.css",
+    "main.js": "/DesarrolloWeb-Practica06/static/js/main.41bc619f.js",
+    "static/js/453.fc752a20.chunk.js": "/DesarrolloWeb-Practica06/static/js/453.fc752a20.chunk.js",
+    "index.html": "/DesarrolloWeb-Practica06/index.html",
+    "main.f9efd858.css.map": "/DesarrolloWeb-Practica06/static/css/main.f9efd858.css.map",
+    "main.41bc619f.js.map": "/DesarrolloWeb-Practica06/static/js/main.41bc619f.js.map",
+    "453.fc752a20.chunk.js.map": "/DesarrolloWeb-Practica06/static/js/453.fc752a20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9efd858.css",
+    "static/js/main.41bc619f.js"
+  ]
+}
